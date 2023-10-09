@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+    padding: 50px;
+    position: relative;
+  }
+  
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
